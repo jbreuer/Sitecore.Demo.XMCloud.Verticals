@@ -13,6 +13,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
       Hint: Title
       Value: Effective employee management
@@ -22,7 +25,7 @@ Languages:
         <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{092F1015-4CF0-4131-90F1-7E2020EA4B47}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "57e8be8d-29a7-4dd7-b35b-4cf81fdcfd7a"
+      Value: "2734058a-73f9-4957-9f92-6ce1e4a2d92b"
     - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
       Hint: Text
       Value: <p>Supercharge your workforce with our comprehensive employee management strategies.</p>
