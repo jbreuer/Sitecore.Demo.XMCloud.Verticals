@@ -7,11 +7,14 @@ SharedFields:
 - ID: "afea6373-024f-4b89-a68b-83115e3701d8"
   Hint: Video
   Value: |
-    <image mediaid="{E661F006-5B4B-4D94-BF9C-7BC513180F1F}" />
+    <image mediaid="{E661F006-5B4B-4D94-BF9C-7BC513180F1F}"/>
 - ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
   Hint: Image
   Value: |
     <image mediaid="{49985546-7AFE-45F5-902B-A49779EFFA07}" alt="Default video thumbnail" height="" width="" hspace="" vspace="" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6a0c7a39-2a02-44ad-86cc-88694614fa68"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
@@ -25,14 +28,14 @@ Languages:
       Value: <r />
     - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
       Hint: Title
-      Value: "There is only one perfect future - yours."
+      Value: "There is only one perfect future - yours. "
     - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
       Hint: Link
       Value: |
         <link text="Explore everyday banking" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{406FD98C-50E4-4F30-90E4-6245498A2D10}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "382dee55-25c2-4777-b936-ef9311f869a5"
+      Value: "ca434d89-0df6-4c0b-9f58-d1a1db749917"
     - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
       Hint: Text
       Value: <p>Get started online and access our suite of personalized financial services.</p>
