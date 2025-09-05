@@ -1,0 +1,13 @@
+﻿---
+ID: "16c11e4b-de24-4610-8fee-191736387531"
+Parent: "5cb426f0-740b-43ad-80b3-9d6043ee4926"
+Template: "90d315e8-aa42-4b23-a7eb-4491396453f8"
+Path: /sitecore/content/Verticals/Financial/Home/business/Data/Hero 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "089afd0a-c214-4c3a-9dd7-464ebcb46b10"
